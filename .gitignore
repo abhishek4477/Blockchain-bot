@@ -1,0 +1,18 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+Scripts
+Lib 
+node_modules
+Include
+wallets.json
+package-lock.json
+package.json
+pyvenv.cfg
+bot/.env
+bot/wallets.json
+bot/backup 
+
+
+
+
+
